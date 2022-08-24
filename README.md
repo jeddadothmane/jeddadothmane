@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeddadothmane
+- 👀 I’m interested in computer science 
+- 🌱 I’m currently studying computer science at ENSISA Mulhouse
